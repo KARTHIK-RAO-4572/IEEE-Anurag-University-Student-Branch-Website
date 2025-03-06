@@ -39,9 +39,10 @@ npm install
 npm start
 ```
 
+#### Note: Images are removed to protect privacy. To add images, create a folder names "images" in "public" folder and put all images in created folder
+
 <div align="center">
   <h3>We hope you enjoy using the web application!!</h3>
-
 <h3 ><u>Development Team</u></h3>
 <h4 >Karthik Rao P - karthikraopadala@gmail.com</h4>
 <h4 >Venu Gopal B - bobbadivenugopal@gmail.com</h4>
