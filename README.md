@@ -1,6 +1,6 @@
 <div align="center">
   <picture>
-    <img alt="IEEE AU SB Logo" src="https://drive.google.com/thumbnail?id=1eaN9YfcjoDwBzKm6vAkwKN29bjd4GHJh" height="110">
+    <img alt="IEEE AU SB Logo" src="https://github.com/KARTHIK-RAO-4572/GitHub-Images/blob/main/IEEE_AU_SB_Website_GitHub_Logo.png?raw=true" height="110">
   </picture>
 
 ### Official website of IEEE Anurag University Student Branch
